@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Your Name 👋</h1>
+<h1 align="center">Hi there, I'm Your Ranjani 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A84FF&center=true&vCenter=true&width=440&lines=Developer;Problem+Solver;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
 </p>
@@ -10,8 +10,8 @@
 </p>
 
 ## About Me
-- 🔭 I’m currently working on **[your project / tech area]**
-- 🌱 I’m learning **[new tech / framework / skill]**
+- 🔭 I’m currently working on **The Projects**
+- 🌱 I’m learning **DS in C , JAVA**
 - 👯 I’m looking to collaborate on **open source projects**
 - 💬 Ask me about **web development, backend, automation, or coding**
 - ⚡ Fun fact: **I love building creative solutions and learning new things every day**
@@ -39,15 +39,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
-## Featured Projects
-### 1. Project Name
-A short description of what the project does and the tech stack used.
 
-### 2. Project Name
-A short description of what the project does and the tech stack used.
-
-### 3. Project Name
-A short description of what the project does and the tech stack used.
 
 ## Connect With Me
 <p align="left">
